@@ -1,0 +1,26 @@
+#+STARTUP: overview
+#+STARTUP: hidestars
+
+* Tasks
+** DONE Test org-mode install
+   CLOSED: [2017-01-04 Wed 15:33]
+** TODO How to org-mode
+
+More about [[http://doc.norang.ca/org-mode.html][here]]
+
+* Key combinations:
+  Shift+Alt+Enter = creates a ** line
+  * create headings and subheadings
+  Ctrl+c Ctrl+t tags a TODO as DONE and adds a time stamp
+  "[[link][description]" creates a link with the text given in "description" visible
+  Shift+TAB opens or closes all sections
+  Ctrl+c Ctrk+c to add TAGS
+
+
+** TODO Edit and Resubmit Polar Biology Manuscript
+* Description
+
+MS on the phylogeny of /Rossella/ was sent to Polar Biology and is currently accepted with changes. These changes have to be done and the MS needs to be resubmitted.
+
+* Changes to be done by section:
+
