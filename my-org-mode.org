@@ -15,9 +15,29 @@
   Ctrl+c Ctrl+c to add TAGS
   Ctrl+c Ctrl+x Ctrl+i Clock-IN
   Ctrl+c Ctrl+x Ctrl+o Clock OUT
+
+** TODO Finish Habil report!
 ** TODO Edit and Resubmit Polar Biology Manuscript
 *** Description
     MS on the phylogeny of /Rossella/ was sent to Polar Biology and is currently accepted with changes. These changes have to be done and the MS needs to be resubmitted.
-
+    
 *** Changes to be done by section:
+    
+
+** TODO CBAS Transcriptome [0/3]
+   - [ ] Add table legends to GO term analysis results
+   - [ ] Implement pfam enrichment in rmarkdown document
+   - [ ] Start writing the Introduction
+** TODO CBAS Metagenome [0/1]
+   - [ ] Prepare perl script to filter the nanopore reads mapped by graphmap 
+** TODO Revise Leptogorgia MS [0/6]
+   - [ ] Intro
+   - [ ] M&M
+   - [ ] Results
+   - [ ] Discussion
+   - [ ] Rest
+** TODO Submit Gaurav's MS3 to PeerJ?
+
+
+
 
